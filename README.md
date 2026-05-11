@@ -51,10 +51,34 @@ The project includes MySQL database operations, snapshot backup creation, snapsh
 ---
 
 ## 📸 Screenshots
-# Test Image
+## 📸 Screenshots
 
+### RDS Database Created
 ![RDS](./Screenshot%202026-05-10%20205401.png)
 
+### EC2 Instance Running
+![EC2](./Screenshot%202026-05-10%20205723.png)
+
+### MySQL Connection from EC2
+![MySQL](./Screenshot%202026-05-10%20213125.png)
+
+### Database and Table Creation
+![Database](./Screenshot%202026-05-10%20213214.png)
+
+### Snapshot Created
+![Snapshot](./Screenshot%202026-05-10%20213926.png)
+
+### Delete Operation
+![Delete](./Screenshot%202026-05-10%20214642.png)
+
+### Snapshot Restored Successfully
+![Restore](./Screenshot%202026-05-10%20215524.png)
+
+### Connected to Restored Database
+![RestoreDB](./Screenshot%202026-05-10%20221332.png)
+
+### Restored Data Verification
+![Verification](./Screenshot%202026-05-10%20221402.png)
 
 
 ---
