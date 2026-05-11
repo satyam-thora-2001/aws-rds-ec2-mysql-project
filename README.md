@@ -51,8 +51,7 @@ The project includes MySQL database operations, snapshot backup creation, snapsh
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshot
-## 📸 Screenshots
+
 
 ### RDS Database Created
 ![RDS](Screenshot 2026-05-10 205401.png)
